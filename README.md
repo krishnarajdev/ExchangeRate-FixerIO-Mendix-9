@@ -2,7 +2,7 @@
 
 150+ Live Country Currency Exchange Rates
 
-This module helps to provide the live currency conversion of 170 countries by a fixer.io using the API Layer API’s
+This module utilizes the APIs provided by API Layer to enable live currency conversion for 170 countries using fixer.io
 
 Dependencies:
 •	Mendix Modeler 9.18.4
